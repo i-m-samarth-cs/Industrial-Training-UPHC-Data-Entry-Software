@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32210.238
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Stock Count Format", "Stock Count Format\Stock Count Format.vbproj", "{964E5B21-C3EA-4D92-AD74-C98176D4FC1C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{964E5B21-C3EA-4D92-AD74-C98176D4FC1C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{964E5B21-C3EA-4D92-AD74-C98176D4FC1C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{964E5B21-C3EA-4D92-AD74-C98176D4FC1C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{964E5B21-C3EA-4D92-AD74-C98176D4FC1C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DCABB1C3-F429-419A-BD3F-27EA4475B19D}
+	EndGlobalSection
+EndGlobal
